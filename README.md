@@ -1,5 +1,5 @@
 # Smart-Stats-Code
-smart_stats 3.ipynb : 
+smart_stats 3.ipynb : <br>
    -This is the main file which generates the iutput tables.
    -Input required is only input2.csv. 
    -Library Required: from sklearn.ensemble import RandomForestRegressor.
