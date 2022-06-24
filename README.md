@@ -1,8 +1,7 @@
 # Smart-Stats-Code
 
 
-Step 1: Extract .input2.zip' and 'input_for_code2/results_smart_stats.zip' files to get input2.csv and results_smart_stats.csv.<br>
-I zipped them to make them smaller in memory size.<br>
+Step 1: Extract .input2.zip' and 'input_for_code2/results_smart_stats.zip' files to get input2.csv and results_smart_stats.csv.I zipped them to make them smaller in memory size.<br>
 
 Step 2: Run smart_stats 3.ipynb<br>
 
